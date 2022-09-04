@@ -13,3 +13,5 @@ Ping-Pong - the blue paddle operates on w,d keys.
 The red paddle operates on up and down arrows.
 
 Quiz Master - The answers are case sensitive so please answer starting with a capital and type the answers into the terminal.
+
+Hungry Snake - Use the keypad arrows to direct the snake to the food.

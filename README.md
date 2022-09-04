@@ -12,4 +12,4 @@ How to play:
 Ping-Pong - the blue paddle operates on w,d keys.
 The red paddle operates on up and down arrows.
 
-Quiz Master & Hungry Snake are currently in development
+Quiz Master - The answers are case sensitive so please answer starting with a capital and type the answers into the terminal.
